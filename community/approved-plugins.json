@@ -488,5 +488,10 @@
     "name": "@huge-nx/conventions",
     "description": "Plugin to generate and manage Nx workspaces by adhering to established workspace conventions.",
     "url": "https://github.com/jogelin/huge-nx"
+  },
+  {
+    "name": "@nx-toolkits/firebase",
+    "description": "Plugin to generate firebase functions as NX apps.",
+    "url": "https://github.com/mainawycliffe/nx-toolkits/blob/main/packages/firebase"
   }
 ]
